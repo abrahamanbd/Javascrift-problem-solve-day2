@@ -1,0 +1,8 @@
+.leaf-year {
+    text-align: center;
+    padding: 10px;
+}
+.leaf-year .leaf-year-inner {
+    width: 50%;
+    margin: 0 auto;
+}
